@@ -1,4 +1,4 @@
-package cydeo;
+package com.crm.utilities;
 
 import java.io.FileInputStream;
 import java.util.Properties;
